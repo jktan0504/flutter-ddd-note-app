@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326043973728",
+    "project_id": "viewler-mobile-apps-test",
+    "storage_bucket": "viewler-mobile-apps-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326043973728:android:6a8d9666e009c35e43eb05",
+        "android_client_info": {
+          "package_name": "com.jkdeveloper.domain_driven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326043973728-32qrv4ne9vinr87g3lo6sfav68t2nbed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jkdeveloper.domain_driven",
+            "certificate_hash": "ea648a58852ec6e88737f50fad85be18bc09525e"
+          }
+        },
+        {
+          "client_id": "326043973728-p0s5cn6g5a3qu1cfg79s7knf9hpeqae8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMTODV3F-Iu6l-9NSFeFNGImoazoGAiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326043973728-p0s5cn6g5a3qu1cfg79s7knf9hpeqae8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
